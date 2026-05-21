@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "messages": [
+    {
+      "id": "mr-001",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_silly"],
+      "text": "Hey Oxford girl!"
+    },
+    {
+      "id": "mr-002",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_compliment"],
+      "text": "Miss you poepie"
+    },
+    {
+      "id": "mr-003",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_silly"],
+      "text": "Did you just fart?"
+    },
+    {
+      "id": "mr-004",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_compliment"],
+      "text": "Hi poepie."
+    },
+    {
+      "id": "mr-005",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_compliment"],
+      "text": "Hey cutie pewdie."
+    },
+    {
+      "id": "mr-006",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_compliment"],
+      "text": "Lookin good, poep."
+    },
+    {
+      "id": "mr-007",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_silly"],
+      "text": "Drink some water, stinky."
+    },
+    {
+      "id": "mr-008",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_silly"],
+      "text": "Did you eat, poepie?"
+    },
+    {
+      "id": "mr-009",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_compliment"],
+      "text": "Cutie, you're cute and I'm right."
+    },
+    {
+      "id": "mr-010",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_silly"],
+      "text": "Hi stinky."
+    },
+    {
+      "id": "mr-011",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_compliment"],
+      "text": "Poep, I see you."
+    },
+    {
+      "id": "mr-012",
+      "speaker": "mini_ralph",
+      "tags": ["mini_ralph_compliment"],
+      "text": "Hey gorgeous."
+    },
+    {
+      "id": "fe-001",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "Emmi, I'm so proud of you. xx future emma"
+    },
+    {
+      "id": "fe-002",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "Look at you, Emmi. all of this is worth it. xx"
+    },
+    {
+      "id": "fe-003",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "Five years from now you'll look back on this week and smile. xx future emma"
+    },
+    {
+      "id": "fe-004",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "The doubts you have today are exactly what I needed you to push through. thank you, Emmi. xx"
+    },
+    {
+      "id": "fe-005",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "Emmi — I love being you. xx future emma"
+    },
+    {
+      "id": "fe-006",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "You did enough today, Emmi. rest. xx"
+    },
+    {
+      "id": "fe-007",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "I am the version of you who didn't quit. thank you, Emmi. xx future emma"
+    },
+    {
+      "id": "fe-008",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "The way you handled today? proud. genuinely. xx future emma"
+    },
+    {
+      "id": "fe-009",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "Keep going Emmi. it's worth it. xx future emma"
+    },
+    {
+      "id": "fe-010",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "The woman you're becoming — she's worth all of this. xx future emma"
+    },
+    {
+      "id": "fe-011",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "Emmi, I'm here because you didn't give up. thank you. xx future emma"
+    },
+    {
+      "id": "fe-012",
+      "speaker": "future_emma",
+      "tags": ["future_emma_pep"],
+      "text": "Small choices today, big me tomorrow. proud of you, Emmi. xx"
+    },
+    {
+      "id": "morning-001",
+      "speaker": "future_emma",
+      "tags": ["morning"],
+      "text": "Good morning, Emmi. xx future emma"
+    },
+    {
+      "id": "morning-002",
+      "speaker": "mini_ralph",
+      "tags": ["morning"],
+      "text": "Hi poepie. morning."
+    },
+    {
+      "id": "morning-003",
+      "speaker": "mini_ralph",
+      "tags": ["morning"],
+      "text": "Wake up cutie."
+    },
+    {
+      "id": "evening-001",
+      "speaker": "future_emma",
+      "tags": ["evening"],
+      "text": "Sleep tight, Emmi. you did enough today. xx future emma"
+    },
+    {
+      "id": "evening-002",
+      "speaker": "mini_ralph",
+      "tags": ["evening"],
+      "text": "Goodnight poep."
+    },
+    {
+      "id": "evening-003",
+      "speaker": "mini_ralph",
+      "tags": ["evening"],
+      "text": "Night night cutie."
+    },
+    {
+      "id": "shared-001",
+      "speaker": "either",
+      "tags": ["shared_affirmation"],
+      "text": "You are deeply loved."
+    },
+    {
+      "id": "shared-002",
+      "speaker": "either",
+      "tags": ["shared_affirmation"],
+      "text": "You matter."
+    },
+    {
+      "id": "shared-003",
+      "speaker": "either",
+      "tags": ["shared_affirmation"],
+      "text": "Everything is going to be OK."
+    }
+  ]
+}
