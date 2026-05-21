@@ -1,4 +1,167 @@
 {
   "version": 1,
-  "dates": []
+  "dates": [
+    {
+      "id": "birthday-opening-2026",
+      "date": "2026-05-22",
+      "messages": [
+        "Happy birthday, Emmi! 25 looks good on us. xx future emma",
+        "Happy birthday poep!",
+        "Hey birthday girl!",
+        "25 today. so proud of you, Emmi. xx future emma",
+        "Happy birthday cutie pewdie!",
+        "Birthday hugs poepie.",
+        "Emmi, 25 years of you. so grateful. xx future emma"
+      ],
+      "speaker": "both",
+      "priority": "exclusive",
+      "once": true
+    },
+    {
+      "id": "birthday-recurring",
+      "date": "05-21",
+      "messages": [
+        "Happy birthday, Emmi. xx future emma",
+        "Happy birthday poepie!",
+        "Hey birthday girl, looking good.",
+        "Emmi, another year. so proud of you. xx future emma",
+        "Cake time poep!",
+        "Birthday cutie pewdie."
+      ],
+      "speaker": "both",
+      "priority": "exclusive"
+    },
+    {
+      "id": "heiligabend",
+      "date": "12-24",
+      "messages": [
+        "Heiligabend, poepie. love this night.",
+        "Happy Christmas Eve, Emmi. xx future emma",
+        "Frohe Weihnachten, cutie.",
+        "Christmas Eve hugs, stinky."
+      ],
+      "speaker": "both",
+      "priority": "mixed"
+    },
+    {
+      "id": "christmas-day",
+      "date": "12-25",
+      "messages": [
+        "Frohe Weihnachten, poep.",
+        "Merry Christmas, Emmi. xx future emma",
+        "Christmas hugs, cutie pewdie.",
+        "Happy Christmas poepie.",
+        "Emmi, merry Christmas. love you. xx future emma"
+      ],
+      "speaker": "both",
+      "priority": "exclusive"
+    },
+    {
+      "id": "second-christmas-day",
+      "date": "12-26",
+      "messages": [
+        "Still Christmas! how are you, stinky?",
+        "Zweiter Weihnachtstag, poep.",
+        "Christmas leftovers day. love it cutie."
+      ],
+      "speaker": "mini_ralph",
+      "priority": "mixed"
+    },
+    {
+      "id": "silvester",
+      "date": "12-31",
+      "messages": [
+        "Silvester! happy new year, poepie.",
+        "Frohes neues, Emmi. xx future emma",
+        "Last day of the year, poep. proud of all of it.",
+        "Almost a new year, Emmi. xx future emma",
+        "NYE cutie. dance later?"
+      ],
+      "speaker": "both",
+      "priority": "mixed"
+    },
+    {
+      "id": "neujahr",
+      "date": "01-01",
+      "messages": [
+        "Frohes neues, poep.",
+        "First day of the year, Emmi. you've got this. xx future emma",
+        "Happy new year cutie.",
+        "New year, same poepie. love it."
+      ],
+      "speaker": "both",
+      "priority": "mixed"
+    },
+    {
+      "id": "valentines",
+      "date": "02-14",
+      "messages": [
+        "Happy valentine's day cutie.",
+        "Hey poepie, valentine.",
+        "Valentine's, Emmi. love you. xx future emma",
+        "Happy v-day stinky.",
+        "Be my valentine? still? always?"
+      ],
+      "speaker": "both",
+      "priority": "mixed"
+    },
+    {
+      "id": "halloween",
+      "date": "10-31",
+      "messages": [
+        "Happy Halloween stinky.",
+        "Boo, poep.",
+        "Halloween! spook level: cute.",
+        "Trick or treat poepie."
+      ],
+      "speaker": "mini_ralph",
+      "priority": "mixed"
+    },
+    {
+      "id": "tag-der-einheit",
+      "date": "10-03",
+      "messages": [
+        "Tag der Deutschen Einheit. happy unity day, poep.",
+        "Day off! enjoy it cutie.",
+        "Einheit day, stinky."
+      ],
+      "speaker": "mini_ralph",
+      "priority": "mixed"
+    },
+    {
+      "id": "maifeiertag",
+      "date": "05-01",
+      "messages": [
+        "Maifeiertag. rest day, poep.",
+        "Tag der Arbeit. happy May day, cutie.",
+        "May 1st, poepie. take it easy."
+      ],
+      "speaker": "mini_ralph",
+      "priority": "mixed"
+    },
+    {
+      "id": "pfingstsonntag-2026",
+      "date": "2026-05-24",
+      "messages": [
+        "Happy Pfingsten, poepie.",
+        "Pfingstsonntag, Emmi. xx future emma",
+        "Pentecost Sunday cutie."
+      ],
+      "speaker": "both",
+      "priority": "mixed",
+      "once": true
+    },
+    {
+      "id": "pfingstmontag-2026",
+      "date": "2026-05-25",
+      "messages": [
+        "Pfingstmontag, poep. extra day off.",
+        "Still Pfingsten, cutie.",
+        "Pentecost Monday hugs, poepie."
+      ],
+      "speaker": "mini_ralph",
+      "priority": "mixed",
+      "once": true
+    }
+  ]
 }
